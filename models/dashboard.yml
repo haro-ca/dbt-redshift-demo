@@ -5,7 +5,7 @@ exposures:
   - name: tickit_sales_summary
     type: dashboard
     maturity: medium
-    url: https://us-east-1.quicksight.aws.amazon.com
+    url: https://us-east-1.quicksight.aws.amazon.com/sn/analyses/30462342-7dde-49ec-917a-d699b7f14a77
     description: >
       TICKIT sales summary dashboard, authored in Amazon QuickSight
     
