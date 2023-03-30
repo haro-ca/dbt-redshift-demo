@@ -14,5 +14,5 @@ exposures:
       - ref('fct_listings')
       
     owner:
-      name: Gary A. Stafford
-      email: gary.a.stafford@gmail.com
+      name: Carlos Alberto Haro
+      email: carlos.alberto.haro@accenture.com
